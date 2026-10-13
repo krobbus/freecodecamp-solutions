@@ -1,0 +1,27 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "A project about building a npm modules to create a prime-checker module from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krobbus/build-a-prime-number-checker-module.git"
+  },
+  "keywords": [
+    "npm",
+    "build",
+    "prime",
+    "number",
+    "checker"
+  ],
+  "type": "commonjs",
+  "author": "Alef Justin Loresca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krobbus/build-a-prime-number-checker-module/issues"
+  },
+  "homepage": "https://github.com/krobbus/build-a-prime-number-checker-module#readme"
+}
